@@ -1,0 +1,36 @@
+.flexcontainer {
+    margin-left: 25% !important ;
+    margin-right: 25% !important;
+    width: auto;
+}
+
+body {
+    font-family: "Average", serif;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+    font-family: "Playfair Display SC", serif;
+}
+.navbar{
+    background-image: url("img/bird-of-paradise.jpg")   ;
+    background-color: transparent !important; 
+    background-size: cover;
+    background-position: center;
+    width: 100%;
+    height: 700px; 
+    min-height: auto;
+    align-items: flex-start !important;
+    align-content: flex-start !important;
+  }
+  .navbar-dark .navbar-nav .nav-link {
+    color: white !important;
+   
+  }
+  .jumbotron {
+      background-color: transparent;
+      text-align: center;   
+  }
